@@ -5,6 +5,9 @@ Banking application allows the users to submit their details and then the users 
 
 ![125443551-bc011807-2956-4990-bca0-565a49b4adeb](https://user-images.githubusercontent.com/49206037/143179041-7ded93bd-1dab-4c8f-92f1-b5114a26722e.jpg)
 
+## BADGES
+[![CI](https://github.com/vivek11718681/bank_management_system/actions/workflows/main.yml/badge.svg)](https://github.com/vivek11718681/bank_management_system/actions/workflows/main.yml)
+
 ## Folder Structure
 1. Requirements	Documents detailing requirements and research
 2. Design	Documents specifying design details
